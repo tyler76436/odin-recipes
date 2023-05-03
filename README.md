@@ -1,1 +1,1 @@
-# odin-recipes
+# odin-recipes The current project is to make a page of various recipes
