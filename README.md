@@ -1,1 +1,1 @@
-# odin-recipes
+My current project is to make a recipe page. This project will demonstrate making lists, adding images, and creating links. 
